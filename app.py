@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 from deep_translator import GoogleTranslator
 from unidecode import unidecode
